@@ -1,7 +1,7 @@
 # Hi, I'm Olamide
 
 I'm a Customer Support & Operations Professional 
-with 6 years of experience delivering high-quality 
+with 5+ years of experience delivering high-quality 
 support across BPO, Fintech, and Telecom environments.
 
 I specialise in resolving complex customer issues, 
@@ -27,11 +27,11 @@ process improvement and documentation.
 **Operations & Workflow:** [Notion](https://www.notion.so) | [Trello](https://trello.com) | [Airtable](https://www.airtable.com) | [Monday.com](https://monday.com)
 
 ## Projects
- 📌 Customer Support Playbook
- 📌 Fintech Knowledge Base
- 📌 CRM Ticketing Workflows
- 📌 Customer Service Case Studies
- 📌 Remote Work Operations Guide
+- Customer Support Playbook
+- Fintech Knowledge Base
+- CRM Ticketing Workflows
+- Customer Service Case Studies
+- Remote Work Operations Guide
 
 ## Key Achievements
 - Maintained 95–100% SLA compliance
