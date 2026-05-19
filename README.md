@@ -1,7 +1,7 @@
 # Hi, I'm Olamide 👋
 
 I'm a Customer Support & Operations Professional 
-with 5+ years of experience delivering high-quality 
+with 6 years of experience delivering high-quality 
 support across BPO, Fintech, and Telecom environments.
 
 I specialise in resolving complex customer issues, 
