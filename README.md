@@ -28,13 +28,9 @@ process improvement and documentation.
 
 ## Projects
  📌 Customer Support Playbook
- 
  📌 Fintech Knowledge Base
- 
  📌 CRM Ticketing Workflows
- 
  📌 Customer Service Case Studies
- 
  📌 Remote Work Operations Guide
 
 ## Key Achievements
