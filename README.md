@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Olamide 👋
+Customer Support & Operations Professional | 
+5+ years in BPO, Fintech & Telecom
 
-<!--
-**olamide-apantaku/olamide-apantaku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I Do
+- CRM Management & Ticket Resolution
+- Escalation Handling & SLA Compliance
+- CSAT & NPS Performance Tracking
+- Customer Onboarding & Retention
+- Process Improvement & Documentation
+- Remote Collaboration & Team Coordination
 
-Here are some ideas to get you started:
+## Tools & Platforms
+Zendesk | HubSpot | Freshdesk | Zoho CRM
+Google Workspace | Microsoft Office | Slack
+Zoom | Notion | Trello | Airtable | Monday.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Customer Support Playbook
+- Fintech Knowledge Base
+- CRM Ticketing Workflows
+- Customer Service Case Studies
+
+## Contact
+📧 apantakuolamide@gmail.com
+🔗 linkedin.com/in/olamide-apantaku
