@@ -27,11 +27,11 @@ process improvement and documentation.
 **Operations & Workflow:** [Notion](https://www.notion.so) | [Trello](https://trello.com) | [Airtable](https://www.airtable.com) | [Monday.com](https://monday.com)
 
 ## Projects
-- Customer Support Playbook
-- Fintech Knowledge Base
-- CRM Ticketing Workflows
-- Customer Service Case Studies
-- Remote Work Operations Guide
+- [Customer Support Playbook](https://github.com/yourusername/customer-support-playbook)
+- [Fintech Knowledge Base](https://github.com/yourusername/fintech-support-knowledge-base)
+- [CRM Ticketing Workflows](https://github.com/yourusername/crm-ticketing-workflows)
+- [Customer Service Case Studies](https://github.com/yourusername/customer-service-case-studies)
+- [Remote Work Operations Guide](https://github.com/yourusername/remote-work-operations)
 
 ## Key Achievements
 - Maintained 95–100% SLA compliance
