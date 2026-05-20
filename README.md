@@ -28,13 +28,13 @@ process improvement and documentation.
 
 ## Projects
 - [Customer Support Playbook](https://github.com/olamide-apantaku/customer-support-playbook)
-- [Customer Service Case Studies](https://github.com/olamide-apantaku/customer-service-case-studies)
-- [Fintech Knowledge Base](https://github.com/olamide-apantaku/fintech-support-knowledge-base)
-- [CRM Ticketing Workflows](https://github.com/olamide-apantaku/crm-ticketing-workflows)
-- [Remote Work Operations](https://github.com/olamide-apantaku/remote-work-operations)
 - [Support SOPs](https://github.com/olamide-apantaku/support-sops)
 - [Customer Journey Mapping](https://github.com/olamide-apantaku/customer-journey-mapping)
 - [CSAT Analysis](https://github.com/olamide-apantaku/csat-analysis)
+- [Fintech Knowledge Base](https://github.com/olamide-apantaku/fintech-support-knowledge-base)
+- [CRM Ticketing Workflows](https://github.com/olamide-apantaku/crm-ticketing-workflows)
+- [Customer Service Case Studies](https://github.com/olamide-apantaku/customer-service-case-studies)
+- [Remote Work Operations](https://github.com/olamide-apantaku/remote-work-operations)
 
 ## Key Achievements
 - Maintained 95–100% SLA compliance
